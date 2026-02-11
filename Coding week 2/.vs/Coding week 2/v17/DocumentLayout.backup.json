@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s251708\\Desktop\\gamedev2026\\Coding week 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{193F6BE9-A531-4AA9-9A41-40CA431F089A}|Coding week 2\\Coding week 2.csproj|c:\\users\\s251708\\desktop\\gamedev2026\\coding week 2\\coding week 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193F6BE9-A531-4AA9-9A41-40CA431F089A}|Coding week 2\\Coding week 2.csproj|solutionrelative:coding week 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s251708\\Desktop\\gamedev2026\\Coding week 2\\Coding week 2\\Program.cs",
+              "RelativeDocumentMoniker": "Coding week 2\\Program.cs",
+              "ToolTip": "C:\\Users\\s251708\\Desktop\\gamedev2026\\Coding week 2\\Coding week 2\\Program.cs*",
+              "RelativeToolTip": "Coding week 2\\Program.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAA3wGIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:46:11.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
