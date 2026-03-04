@@ -1,0 +1,8 @@
+C:\Users\s251708\Desktop\gamedev2026\Week5\Week5\bin\Debug\Week5.exe.config
+C:\Users\s251708\Desktop\gamedev2026\Week5\Week5\bin\Debug\Week5.exe
+C:\Users\s251708\Desktop\gamedev2026\Week5\Week5\bin\Debug\Week5.pdb
+C:\Users\s251708\Desktop\gamedev2026\Week5\Week5\obj\Debug\Week5.csproj.AssemblyReference.cache
+C:\Users\s251708\Desktop\gamedev2026\Week5\Week5\obj\Debug\Week5.csproj.CoreCompileInputs.cache
+C:\Users\s251708\Desktop\gamedev2026\Week5\Week5\obj\Debug\Week5.exe
+C:\Users\s251708\Desktop\gamedev2026\Week5\Week5\obj\Debug\Week5.pdb
+C:\Users\s251708\Desktop\gamedev2026\Week5\Week5\obj\Debug\Week5.exe.config
