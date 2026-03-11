@@ -1,0 +1,8 @@
+C:\Users\s251708\Desktop\gamedev2026\Wordsorter\Wordsorter\bin\Debug\Wordsorter.exe.config
+C:\Users\s251708\Desktop\gamedev2026\Wordsorter\Wordsorter\bin\Debug\Wordsorter.exe
+C:\Users\s251708\Desktop\gamedev2026\Wordsorter\Wordsorter\bin\Debug\Wordsorter.pdb
+C:\Users\s251708\Desktop\gamedev2026\Wordsorter\Wordsorter\obj\Debug\Wordsorter.csproj.AssemblyReference.cache
+C:\Users\s251708\Desktop\gamedev2026\Wordsorter\Wordsorter\obj\Debug\Wordsorter.csproj.CoreCompileInputs.cache
+C:\Users\s251708\Desktop\gamedev2026\Wordsorter\Wordsorter\obj\Debug\Wordsorter.exe
+C:\Users\s251708\Desktop\gamedev2026\Wordsorter\Wordsorter\obj\Debug\Wordsorter.pdb
+C:\Users\s251708\Desktop\gamedev2026\Wordsorter\Wordsorter\obj\Debug\Wordsorter.exe.config

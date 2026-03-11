@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\s251708\\Desktop\\gamedev2026\\topdown game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0DCBC9C-1695-44AE-8144-A587C51B8D23}|topdown game\\topdown game.csproj|c:\\users\\s251708\\desktop\\gamedev2026\\topdown game\\topdown game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0DCBC9C-1695-44AE-8144-A587C51B8D23}|topdown game\\topdown game.csproj|solutionrelative:topdown game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0DCBC9C-1695-44AE-8144-A587C51B8D23}|topdown game\\topdown game.csproj|C:\\Users\\s251708\\Desktop\\gamedev2026\\topdown game\\topdown game\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DCBC9C-1695-44AE-8144-A587C51B8D23}|topdown game\\topdown game.csproj|solutionrelative:topdown game\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0DCBC9C-1695-44AE-8144-A587C51B8D23}|topdown game\\topdown game.csproj|c:\\users\\s251708\\desktop\\gamedev2026\\topdown game\\topdown game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A0DCBC9C-1695-44AE-8144-A587C51B8D23}|topdown game\\topdown game.csproj|c:\\users\\s251708\\desktop\\gamedev2026\\topdown game\\topdown game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DCBC9C-1695-44AE-8144-A587C51B8D23}|topdown game\\topdown game.csproj|solutionrelative:topdown game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DCBC9C-1695-44AE-8144-A587C51B8D23}|topdown game\\topdown game.csproj|C:\\Users\\s251708\\Desktop\\gamedev2026\\topdown game\\topdown game\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DCBC9C-1695-44AE-8144-A587C51B8D23}|topdown game\\topdown game.csproj|solutionrelative:topdown game\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DCBC9C-1695-44AE-8144-A587C51B8D23}|topdown game\\topdown game.csproj|C:\\Users\\s251708\\Desktop\\gamedev2026\\topdown game\\topdown game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0DCBC9C-1695-44AE-8144-A587C51B8D23}|topdown game\\topdown game.csproj|solutionrelative:topdown game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DCBC9C-1695-44AE-8144-A587C51B8D23}|topdown game\\topdown game.csproj|C:\\Users\\s251708\\Desktop\\gamedev2026\\topdown game\\topdown game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DCBC9C-1695-44AE-8144-A587C51B8D23}|topdown game\\topdown game.csproj|solutionrelative:topdown game\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,25 +39,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Vector2.cs",
+              "DocumentMoniker": "C:\\Users\\s251708\\Desktop\\gamedev2026\\topdown game\\topdown game\\Vector2.cs",
+              "RelativeDocumentMoniker": "topdown game\\Vector2.cs",
+              "ToolTip": "C:\\Users\\s251708\\Desktop\\gamedev2026\\topdown game\\topdown game\\Vector2.cs",
+              "RelativeToolTip": "topdown game\\Vector2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T23:41:31.239Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\s251708\\Desktop\\gamedev2026\\topdown game\\topdown game\\Player.cs",
+              "RelativeDocumentMoniker": "topdown game\\Player.cs",
+              "ToolTip": "C:\\Users\\s251708\\Desktop\\gamedev2026\\topdown game\\topdown game\\Player.cs",
+              "RelativeToolTip": "topdown game\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T00:39:45.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\s251708\\Desktop\\gamedev2026\\topdown game\\topdown game\\Map.cs",
+              "RelativeDocumentMoniker": "topdown game\\Map.cs",
+              "ToolTip": "C:\\Users\\s251708\\Desktop\\gamedev2026\\topdown game\\topdown game\\Map.cs",
+              "RelativeToolTip": "topdown game\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T00:28:31.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\s251708\\Desktop\\gamedev2026\\topdown game\\topdown game\\Game.cs",
               "RelativeDocumentMoniker": "topdown game\\Game.cs",
               "ToolTip": "C:\\Users\\s251708\\Desktop\\gamedev2026\\topdown game\\topdown game\\Game.cs",
               "RelativeToolTip": "topdown game\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T00:54:40.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\s251708\\Desktop\\gamedev2026\\topdown game\\topdown game\\Program.cs",
               "RelativeDocumentMoniker": "topdown game\\Program.cs",
               "ToolTip": "C:\\Users\\s251708\\Desktop\\gamedev2026\\topdown game\\topdown game\\Program.cs",
               "RelativeToolTip": "topdown game\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T22:26:27.171Z",
               "EditorCaption": ""

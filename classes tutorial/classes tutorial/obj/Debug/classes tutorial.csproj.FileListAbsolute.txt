@@ -1,0 +1,7 @@
+C:\Users\s251708\Desktop\gamedev2026\classes tutorial\classes tutorial\bin\Debug\classes tutorial.exe.config
+C:\Users\s251708\Desktop\gamedev2026\classes tutorial\classes tutorial\bin\Debug\classes tutorial.exe
+C:\Users\s251708\Desktop\gamedev2026\classes tutorial\classes tutorial\bin\Debug\classes tutorial.pdb
+C:\Users\s251708\Desktop\gamedev2026\classes tutorial\classes tutorial\obj\Debug\classes tutorial.csproj.AssemblyReference.cache
+C:\Users\s251708\Desktop\gamedev2026\classes tutorial\classes tutorial\obj\Debug\classes tutorial.csproj.CoreCompileInputs.cache
+C:\Users\s251708\Desktop\gamedev2026\classes tutorial\classes tutorial\obj\Debug\classes tutorial.exe
+C:\Users\s251708\Desktop\gamedev2026\classes tutorial\classes tutorial\obj\Debug\classes tutorial.pdb

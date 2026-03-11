@@ -9,28 +9,15 @@ namespace topdown_game
 {
     internal class Game
     {
-        int playerX = 5;
-        int playerY = 5;
-        char playerIcon = 'A';
-        // Y - First array
-        // X - internal array of Ys
-        char[,] map =
-        {
-                {'.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.'},
-                {'.', '.', '.', '.', '.', '.', '.', '0', '.', '.', '.'},
-                {'.', '.', '.', '.', '.', '.', '.', '0', '.', '.', '.'},
-                {'.', '.', '.', '.', '.', '.', '.', '0', '.', '.', '.'},
-                {'.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.'},
-                {'.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.'},
-                {'.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.'},
-                {'.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.'},
-                {'.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.'},
-                {'.', '.', '.', '.', '.', '.', '.', '.', '.', '.', '.'},
-            };
+        private Map map;
+        private Player player;
+        
 
         public void Initialise()
         {
-            
+            map = new Map();
+            player = new Player(new Vector2(5, 5), this);
+            Draw();
 
         }
         /// <summary>
@@ -42,56 +29,22 @@ namespace topdown_game
         {
             // inputs
             ConsoleKey playerInput = Console.ReadKey().Key;
-            int previousX = playerX;
-            int previousY = playerY;
-            // Calculations
-            switch (playerInput)
-            {
-                case ConsoleKey.Escape:
-                    return false;
-                case ConsoleKey.W:
-                    playerY -= 1;
-                    break;
-                case ConsoleKey.S:
-                    playerY += 1;
-                    break;
-                case ConsoleKey.A:
-                    playerX -= 1;
-                    break;
-                case ConsoleKey.D:
-                    playerX += 1;
-                    break;
-            }
 
-            if (HasCollided(playerX, playerY) == true)
-            {
-                playerX = previousX;
-                playerY = previousY;
-            }
+            if (playerInput == ConsoleKey.Escape)
+                return false;
+
+            // pass the input to the player
+            player.Update(playerInput);
 
             return true;
         }
 
-        /// <summary>
-        /// Collison check with map
-        /// </summary>
-        /// <param name="x">Coordinate</param>
-        /// <param name="y">Coordinate</param>
-        /// <returns>true if hit something it can't move to. False if it can</returns>
-        private bool HasCollided(int x, int y)
+        public bool HasCollided(Vector2 position)
         {
-            // map bounds check
-            if (y < 0 || x < 0 // has passed the top or left of the map
-                || y >= map.GetLength(0) || x >= map.GetLength(1)) // has passed the bottle
-                return true;
-
-            // tile collision check
-            if (map[y, x] == '0')
-                return true;
-
-            return false;
+            return map.HasCollided(position);
         }
 
+        
         public void Draw()
         {
             // Outputs
@@ -100,20 +53,20 @@ namespace topdown_game
             // Console.Clear();
             string mapDisplay = "";
             // Loop through the Y axis
-            for (int y = 0; y < map.GetLength(0); y++)
+            for (int y = 0; y < map.MapSize.Y; y++)
             {
                 // Loop through x array
-                for (int x = 0; x < map.GetLength(1); x++)
+                for (int x = 0; x < map.MapSize.X; x++)
                 {
                     // Draw things to the world
-                    if (x == playerX && y == playerY)
+                    if (x == player.Position.X && y == player.Position.Y)
                     {
                         // Draw Player
-                        mapDisplay += " " + playerIcon;
+                        mapDisplay += " " + player.Draw();
                     }
                     else
                     {
-                        mapDisplay += " " + map[y, x];
+                        mapDisplay += " " + map.Draw(new Vector2(x,y));
                     }
 
                 }

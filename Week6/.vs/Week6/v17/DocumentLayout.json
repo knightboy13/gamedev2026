@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s251708\\Desktop\\gamedev2026\\Week6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D26624CE-644B-4135-B90E-5786C6D5A66B}|Week6\\Week6.csproj|c:\\users\\s251708\\desktop\\gamedev2026\\week6\\week6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26624CE-644B-4135-B90E-5786C6D5A66B}|Week6\\Week6.csproj|solutionrelative:week6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26624CE-644B-4135-B90E-5786C6D5A66B}|Week6\\Week6.csproj|c:\\users\\s251708\\desktop\\gamedev2026\\week6\\week6\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26624CE-644B-4135-B90E-5786C6D5A66B}|Week6\\Week6.csproj|solutionrelative:week6\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\s251708\\Desktop\\gamedev2026\\Week6\\Week6\\Car.cs",
+              "RelativeDocumentMoniker": "Week6\\Car.cs",
+              "ToolTip": "C:\\Users\\s251708\\Desktop\\gamedev2026\\Week6\\Week6\\Car.cs",
+              "RelativeToolTip": "Week6\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:36:29.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s251708\\Desktop\\gamedev2026\\Week6\\Week6\\Program.cs",
+              "RelativeDocumentMoniker": "Week6\\Program.cs",
+              "ToolTip": "C:\\Users\\s251708\\Desktop\\gamedev2026\\Week6\\Week6\\Program.cs",
+              "RelativeToolTip": "Week6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:10:04.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
