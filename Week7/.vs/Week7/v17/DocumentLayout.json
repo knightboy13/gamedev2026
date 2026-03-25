@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{2163FA37-55E5-4EA2-A446-5EE063C31237}|Week7\\Week7.csproj|solutionrelative:week7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2163FA37-55E5-4EA2-A446-5EE063C31237}|Week7\\Week7.csproj|c:\\users\\s251708\\desktop\\gamedev2026\\week7\\week7\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2163FA37-55E5-4EA2-A446-5EE063C31237}|Week7\\Week7.csproj|C:\\Users\\s251708\\Desktop\\gamedev2026\\Week7\\week7\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2163FA37-55E5-4EA2-A446-5EE063C31237}|Week7\\Week7.csproj|solutionrelative:week7\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s251708\\Desktop\\gamedev2026\\Week7\\Week7\\Program.cs",
+              "RelativeDocumentMoniker": "Week7\\Program.cs",
+              "ToolTip": "C:\\Users\\s251708\\Desktop\\gamedev2026\\Week7\\Week7\\Program.cs",
+              "RelativeToolTip": "Week7\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwDoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:27:13.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -34,21 +47,7 @@
               "RelativeToolTip": "Week7\\Monster.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T22:44:52.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\s251708\\Desktop\\gamedev2026\\Week7\\Week7\\Program.cs",
-              "RelativeDocumentMoniker": "Week7\\Program.cs",
-              "ToolTip": "C:\\Users\\s251708\\Desktop\\gamedev2026\\Week7\\Week7\\Program.cs",
-              "RelativeToolTip": "Week7\\Program.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAwwDoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T22:27:13.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T22:44:52.04Z"
             }
           ]
         }
