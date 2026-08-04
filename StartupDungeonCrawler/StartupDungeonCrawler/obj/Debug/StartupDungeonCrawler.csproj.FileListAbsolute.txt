@@ -1,0 +1,7 @@
+C:\Users\s251708\Desktop\gamedev2026\StartupDungeonCrawler\StartupDungeonCrawler\bin\Debug\StartupDungeonCrawler.exe.config
+C:\Users\s251708\Desktop\gamedev2026\StartupDungeonCrawler\StartupDungeonCrawler\bin\Debug\StartupDungeonCrawler.exe
+C:\Users\s251708\Desktop\gamedev2026\StartupDungeonCrawler\StartupDungeonCrawler\bin\Debug\StartupDungeonCrawler.pdb
+C:\Users\s251708\Desktop\gamedev2026\StartupDungeonCrawler\StartupDungeonCrawler\obj\Debug\StartupDungeonCrawler.csproj.AssemblyReference.cache
+C:\Users\s251708\Desktop\gamedev2026\StartupDungeonCrawler\StartupDungeonCrawler\obj\Debug\StartupDungeonCrawler.csproj.CoreCompileInputs.cache
+C:\Users\s251708\Desktop\gamedev2026\StartupDungeonCrawler\StartupDungeonCrawler\obj\Debug\StartupDungeonCrawler.exe
+C:\Users\s251708\Desktop\gamedev2026\StartupDungeonCrawler\StartupDungeonCrawler\obj\Debug\StartupDungeonCrawler.pdb
