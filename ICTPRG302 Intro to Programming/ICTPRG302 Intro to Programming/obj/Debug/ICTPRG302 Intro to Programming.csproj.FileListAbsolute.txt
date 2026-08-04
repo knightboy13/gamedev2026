@@ -6,3 +6,11 @@ C:\Users\s251708\Downloads\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Pro
 C:\Users\s251708\Downloads\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\obj\Debug\ICTPRG302 Intro to Programming.exe
 C:\Users\s251708\Downloads\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\obj\Debug\ICTPRG302 Intro to Programming.pdb
 C:\Users\s251708\Downloads\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\obj\Debug\ICTPRG302 Intro to Programming.exe.config
+C:\Users\s251708\Documents\GitHub\gamedev2026\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\obj\Debug\ICTPRG302 Intro to Programming.csproj.AssemblyReference.cache
+C:\Users\s251708\Documents\GitHub\gamedev2026\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\obj\Debug\ICTPRG302 Intro to Programming.exe.config
+C:\Users\s251708\Documents\GitHub\gamedev2026\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\obj\Debug\ICTPRG302 Intro to Programming.csproj.CoreCompileInputs.cache
+C:\Users\s251708\Documents\GitHub\gamedev2026\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\obj\Debug\ICTPRG302 Intro to Programming.exe
+C:\Users\s251708\Documents\GitHub\gamedev2026\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\obj\Debug\ICTPRG302 Intro to Programming.pdb
+C:\Users\s251708\Documents\GitHub\gamedev2026\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\bin\Debug\ICTPRG302 Intro to Programming.exe.config
+C:\Users\s251708\Documents\GitHub\gamedev2026\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\bin\Debug\ICTPRG302 Intro to Programming.exe
+C:\Users\s251708\Documents\GitHub\gamedev2026\ICTPRG302 Intro to Programming\ICTPRG302 Intro to Programming\bin\Debug\ICTPRG302 Intro to Programming.pdb
